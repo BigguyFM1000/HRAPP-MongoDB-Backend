@@ -7,3 +7,7 @@
 4. Dotenv (npm i dotenv)
 5. Mongoose (npm i mongoose)
 6. Nodemon (npm i nodemon)
+
+# Troubleshooting tips
+1. 
+Solution: git remote set-url origin https://BigguyFM1000@github.com/BigguyFM1000/HRAPP-MongoDB-Backend.git
